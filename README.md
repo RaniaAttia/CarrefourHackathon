@@ -24,7 +24,9 @@ Refer to report for more explanation.
 
 
 The first notebook `metadata_exploration_I` focuses on data exploration and visualization of the distribution of the features.
+
 The second one `image_exploration_II` focuses on the images. Here we take a look at the images, the views and dump the ones we decided to keep for training, withe size that we wanted.
+
 The final `model_and_evaluation_III` notebook and the most important one contains the model, and it's evaluation, both on validation and test set.
 
 To keep the code as simple as possible, the python script `util.py` contains all the functions we used for cleaning, dropping, plotting etc…
