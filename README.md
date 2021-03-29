@@ -17,7 +17,7 @@ Products can be categorized into different categories and through many levels. F
 
 In the context of that challenge, we are only interested in predicting level 3 (a multi-class problem with 417 different classes).
 
-Refer to report for more explanation.
+Refer to the final report for more explanation.
 
 
 # Repo Organization
