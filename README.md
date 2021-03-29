@@ -31,3 +31,6 @@ The final `model_and_evaluation_III` notebook and the most important one contain
 
 To keep the code as simple as possible, the python script `util.py` contains all the functions we used for cleaning, dropping, plotting etc…
 
+# Final results
+
+The final model had a validation accuracy of 63%. We were pretty satisfied with the results while visually validating our models predictions and the tets images. We finally had an accuracy of 51% on the unseen test images. 
