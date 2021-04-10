@@ -34,3 +34,7 @@ To keep the code as simple as possible, the python script `util.py` contains all
 # Final results
 
 The final model had a validation accuracy of 63%. We were pretty satisfied with the results while visually validating our models predictions and the tets images. We finally had an accuracy of 51% on the unseen test images. 
+
+Jury's feedback:
+
+> "The jury found your work, presentation and report excellent on all aspects (good job at understanding the data, solid methodology, original approach), and with very good results on the evaluation data."
